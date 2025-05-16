@@ -9,7 +9,7 @@ function NavBarMenu() {
   return (
 <Navbar bg="light" data-bs-theme="light">
         <Container>
-          <Navbar.Brand className='navBar'>
+          <Navbar.Brand className='logo'>
 
             <Link to='/'>
               <img src={petShopLogo} alt='Logo Pet Shop'/>
